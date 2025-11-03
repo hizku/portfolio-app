@@ -17,12 +17,12 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <h2>Coming Soon</h2>
-            {/*
+            {
 
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://www.n8n.com" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.n8n.com" target="_blank" rel="noreferrer"><h2>Smart AI Chatbot</h2></a>
+                <p>Implemented a smart website chatbot that pre-qualifies leads and provides basic consultation using OpenAI GPT-4 mini, N8N, and Integration with SalesIQ.</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -71,7 +71,7 @@ function Project() {
             </div>
             
             
-            */}
+            }
             
         </div>
     </div>
