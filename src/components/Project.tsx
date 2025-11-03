@@ -20,7 +20,7 @@ function Project() {
             {
 
             <div className="project">
-                <a href="https://www.n8n.com" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.n8n.com" target="_blank" rel="noreferrer"><img src={n8n} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.n8n.com" target="_blank" rel="noreferrer"><h2>Smart AI Chatbot</h2></a>
                 <p>Implemented a smart website chatbot that pre-qualifies leads and provides basic consultation using OpenAI GPT-4 mini, N8N, and Integration with SalesIQ.</p>
             </div>
